@@ -8,4 +8,4 @@ The original code provided by the author is [here](https://github.com/chirag126/
 2. The perturbed data generation process is time consuming, which takes about 40 min. So, I tried to save '.npy' files for data.
 
 ## Experiments
-1. For vanilla GCN, run `python main.py --model gcn`: ![pic1](./gcn_res.jpg)
+1. For vanilla GCN, run `python main.py --model gcn`: ![pic1](./gcn_res.JPG)
