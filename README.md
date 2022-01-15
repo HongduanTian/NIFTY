@@ -8,5 +8,5 @@ The original code provided by the author is [here](https://github.com/chirag126/
 2. The perturbed data generation process is time consuming, which takes about 40 min. So, I tried to save '.npy' files for data.
 
 ## Experiments
-1. For vanilla GCN, run `python main.py --model gcn`(the learning rate for the results below is 0.01, if lr is set as 0.001, the `sp` and `eo` will be smaller): ![pic1](./gcn_res.JPG)
+1. For vanilla GCN, run `python main.py --model gcn`(the learning rate for the results below is 0.01, if lr is set as 0.001, the `sp` and `eo` will be smaller):<br> ![pic1](./gcn_res.JPG)
 2. For NIFTY-GCN, run `python main.py --model niftygcn --sim --lipschitz`: ![pic2](./nifty_res.JPG)
